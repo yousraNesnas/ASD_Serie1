@@ -1,10 +1,11 @@
 #include <stdio.h>
 
-int main()
+int main() // en-tete
 {
-    printf("Hello\tWorld");
+    printf("Hello World"); //corps du programme
     return 0;
 }
+
 
 
 
